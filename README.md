@@ -61,7 +61,7 @@ Demo vedio: https://www.youtube.com/watch?v=-xLRh7nqMwM
 ### Todo App (https://github.com/sine27/ToDoApp)
 #### May 2017
 
-<img src='http://i.imgur.com/VCNt2B6.gif' title='tip calculation' width='270' alt='Video Walkthrough' />
+<img src='https://github.com/sine27/ToDoApp/blob/master/demo.gif' title='tip calculation' width='270' alt='Video Walkthrough' />
 
 ### Instgram-Practice (https://github.com/sine27/Instgram-Practice)
 #### Aug 2017
