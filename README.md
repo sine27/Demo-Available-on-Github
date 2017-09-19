@@ -66,4 +66,4 @@ Demo vedio: https://www.youtube.com/watch?v=-xLRh7nqMwM
 ### Instgram-Practice (https://github.com/sine27/Instgram-Practice)
 #### Aug 2017
 
-<img src='https://github.com/sine27/Instgram-Practice/demo.gif' title='tip calculation' width='270' alt='Video Walkthrough' />
+<img src='https://github.com/sine27/Instgram-Practice/blob/master/demo.gif' title='tip calculation' width='270' alt='Video Walkthrough' />
